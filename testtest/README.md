@@ -21,9 +21,14 @@ python daohang_pipei_10_risk90.py.py
 The output example after successful operation is as follows:
 
 请输入您的到达点
+\n
 您的到达点为91 
+\n
 请输入您的出发点
+\n
 您的出发点为0
+\n
+
 ******************* Finish generating one day order **********************
 ******************* Starting training Deep SARSA **********************
 A_star  -----  A_star
