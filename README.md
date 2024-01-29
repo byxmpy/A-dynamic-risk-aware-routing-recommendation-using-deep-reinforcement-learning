@@ -1,2 +1,22 @@
-# A-dynamic-risk-aware-routing-recommendastion-using-deep-reinforcement-learning-
-提出了一种基于深度强化学习的双目标动态感知路径规划方法，针对犯罪风险和路径距离进行感知并生成动态的最优路线推荐
+# A-dynamic-risk-aware-routing-recommendation-using-deep-reinforcement-learning
+A dual-objective dynamic perception path planning method based on deep reinforcement learning is proposed, which perceives crime risk and path distance and generates dynamic optimal route recommendations.
+### Prerequisites
+
+- Python 2.7
+- tensorflow1.4.1
+
+### Run
+```
+cd ./imdqn/tests/
+python daohang_pipei_10_risk90.py.py
+
+91 #Enter destination when prompted with statement 
+0 #Enter the starting point when prompted with the statement 
+
+```
+
+
+
+
+The output example after successful operation is in ```log.txt```
+
