@@ -7,7 +7,7 @@ A dual-objective dynamic perception path planning method based on deep reinforce
 
 ### Run
 ```
-cd ./imdqn/tests/
+cd ./tests/
 python daohang_pipei_10_risk90.py.py
 
 91 #Enter destination when prompted with statement 
