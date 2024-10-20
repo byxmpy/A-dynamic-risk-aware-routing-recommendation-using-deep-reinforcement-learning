@@ -1,4 +1,4 @@
-# A-dynamic-risk-aware-routing-recommendation-using-deep-reinforcement-learning
+# A Reinforcement Learning-powered Dynamic Routing with Risk Consideration
 A dual-objective dynamic perception path planning method based on deep reinforcement learning is proposed, which perceives crime risk and path distance and generates dynamic optimal route recommendations.
 ### Prerequisites
 
